@@ -17,21 +17,18 @@ When learning CS there are some useful sites you must know to get always informe
    * [Hacker News](https://news.ycombinator.com/) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
       * [Hacker Newsletter](http://www.hackernewsletter.com/) : curated by hand, delivered weekly 
       * [Hacker News Digest](https://hndigest.com/) : curated automatically, delivered as frequently as you want	
-   * [Ars Technica](http://arstechnica.com/) : posts unique quality articles
-   * [ACM TechNews](http://technews.acm.org/)
    * [Lobsters](https://lobste.rs/) : Lobsters is a technology-focused community centered around link aggregation and discussion.
    * [TechCrunch](http://techcrunch.com/) : another good website for tech news
-   * [GSMArena.com](http://gsmarena.com/) : news related to latest mobile phones and android.
    * [product hunt ](https://www.producthunt.com/) : Discover your next favorite thing
 
-# Coding practice for beginners
-   * [Reddit.com/r/dailyprogrammer](http://www.reddit.com/r/dailyprogrammer) : interesting programming challenges where you can learn from looking at other's code , even if you are not able to solve code you can look at how others solved.
-   * [Programming by Doing](http://programmingbydoing.com/) : very good site for those who want to start with absolute basics
+# Coding practice and news for beginners
+   * [Reddit web programming](https://www.reddit.com/r/web_programming/)
+   * [Reddit programming news](https://www.reddit.com/r/programming/)
+   * [Reddit all about programming](https://www.reddit.com/subreddits/search?q=programming)
    * [CodeAbbey - a place where everyone can master programming](http://codeabbey.com/) : Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
    * [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
    * [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
    * [Small Programming Challenges](https://www.nayuki.io/category/programming)
-   * [Free Code Camp](http://www.freecodecamp.com/) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
    * [Lod - Cloud](http://lod-cloud.net/) : The Linking Open Data cloud diagram
    * [Cave of programming](https://caveofprogramming.com/) : Learn to program, Upgrade your skills.
 
